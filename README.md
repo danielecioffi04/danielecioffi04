@@ -4,8 +4,6 @@
   </a>
 </div>
 
----
-
 <h1 align="center"> Yooo, I'm Den 👾</h1>
 
 <h4 align="center">📚Engineering student @PoliMi📚</h4>
