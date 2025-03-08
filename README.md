@@ -9,10 +9,10 @@
 <h4 align="center">📚Engineering student @PoliMi📚</h4>
 <p align="center"> 
     <a href="https://github.com/danielecioffi04?tab=followers">
-        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ChiaraStilla?color=8A2BE2&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/danielecioffi04?color=1155ba&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <a href="https://github.com/danielecioffi04?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ChiaraStilla?color=8A2BE2&style=for-the-badge&labelColor=1155ba&logo=star"/>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/danielecioffi04?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
     </a>
 </p>
 
