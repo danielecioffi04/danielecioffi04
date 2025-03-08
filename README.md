@@ -1,5 +1,5 @@
 ## Daniele Cioffi 📚👾
-Engineering Student @Polimi
+![alt text](cloud.gif)
 
-<align="center">![alt text](cloud.gif)<\>
+Engineering Student @Polimi
 
