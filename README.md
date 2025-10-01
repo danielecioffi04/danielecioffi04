@@ -21,7 +21,7 @@
 
 <h4> 
   <div align="left"> 
-  👨🏻‍💻 Currently undergoing the 3rd year of studies in CS engineering @Polimi</br></br>
+  👨🏻‍💻 Undergraduate student from Politecnico di Milano, currently a Double Degree student at Universite Libre de Bruxelles
   </div>
 </h4>
 
