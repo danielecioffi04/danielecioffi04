@@ -15,7 +15,7 @@
 
 <h4> 
   <div align="left"> 
-  👨🏻‍💻 Undergraduate student from Politecnico di Milano, currently a Double Degree student at Universite Libre de Bruxelles. Passionate about AI and Data Science!
+  👨🏻‍💻 Graduated from Politecnico di Milano, currently a Double Degree student at Universite Libre de Bruxelles. Passionate about AI and Data Science!
   </div>
 </h4>
 
