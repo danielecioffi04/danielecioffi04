@@ -1,10 +1,4 @@
-<div align="center">
-  <a>
-    <img src="img/ffwallpaper.gif" alt="ffGIF" style="width:auto; height:auto;"/>
-  </a>
-</div>
-
-<h1 align="center"> Den 👾</h1>
+<h1 align="center"> Daniele 👾</h1>
 
 <h4 align="center">📚Double Degree MSc CS Engineering student @PoliMi and @Universitè Libre de Bruxelles📚</h4>
 <p align="center"> 
